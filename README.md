@@ -177,6 +177,7 @@ Before starting, collect:
 
 - **[CLAUDE.md](CLAUDE.md)** - Repository guide for AI assistants
 - **[Configuration Screenshots](Ranjan%20Dinstar%20SME%20IP%20PBX%20UC120.pdf)** - Original UC120 interface screenshots
+- **[Cloudflare Tunnel Compatibility](cloudflare-dinstar-uc120-compatibility.md)** - Analysis of cloudflared installation on UC120
 
 ---
 
